@@ -295,12 +295,12 @@ jQuery(document).ready(function($) {
 	  var path = window.location.pathname;
     var pageName = path.split('/').pop();
       var hash = this.hash;
-	if (hash=='#members' && pageName=='index.html'){
+	if (hash=='#members'){
 		window.location.href='./members.html';
 	}
-	if (pageName=='members.html' && hash!=""){
+	if (pageName=='members.html'){
 		// console.log(hash);
-		window.location.href='./index.html'+hash;
+		window.location.href='./'+hash;
 		
 	}
       $('html, body').animate({
