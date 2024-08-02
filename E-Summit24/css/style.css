@@ -16,8 +16,8 @@ body {
 }
 
 a {
-  /* color: #9c00ff; */
-  color: #9c00ff;
+  /* color: #f52b06; */
+  color: #f52b06;
 
   transition: 0.5s;
 }
@@ -26,7 +26,7 @@ a:hover,
 a:active,
 a:focus {
   /* color: #f8234a; */
-  color: #9c00ff;
+  color: #f52b06;
   outline: none;
   text-decoration: none;
 }
@@ -75,8 +75,8 @@ h6 {
 .back-to-top {
   position: fixed;
   display: none;
-  /* background: #9c00ff;  */
-  background: #9c00ff;
+  /* background: #f52b06;  */
+  background: #f52b06;
   color: #fff;
   width: 40px;
   height: 40px;
@@ -93,15 +93,15 @@ h6 {
 }
 
 .back-to-top:focus {
-  /* background: #7422f8; */
-  background: #9c00ff;
+  /* background: #ff5733; */
+  background: #f52b06;
   color: #fff;
   outline: none;
 }
 
 .back-to-top:hover {
-  /* background: #7422f8; */
-  background: #9c00ff;
+  /* background: #ff5733; */
+  background: #f52b06;
   color: #fff;
 }
 
@@ -120,8 +120,8 @@ h6 {
   display: block;
   width: 60px;
   height: 5px;
-  /* background: #9c00ff; */
-  background: #9c00ff;
+  /* background: #f52b06; */
+  background: #f52b06;
 
   bottom: 0;
   left: calc(50% - 25px);
@@ -183,7 +183,7 @@ h6 {
 }
 
 #header #logo h1 span {
-  color: #9c00ff;
+  color: #f52b06;
 }
 
 #header #logo h1 a,
@@ -296,7 +296,7 @@ h6 {
   height: 2px;
   bottom: 0;
   left: 0;
-  background-color: #9c00ff;
+  background-color: #f52b06;
   visibility: hidden;
   transition: all 0.3s ease-in-out 0s;
 }
@@ -310,10 +310,10 @@ h6 {
 
 .nav-menu li.buy-tickets a {
   color: #fff;
-  background: #9c00ff;
+  background: #f52b06;
   padding: 7px 22px;
   border-radius: 50px;
-  border: 2px solid #9c00ff;
+  border: 2px solid #f52b06;
   transition: all ease-in-out 0.3s;
   font-weight: 500;
   margin-left: 8px;
@@ -354,7 +354,7 @@ h6 {
 }
 
 .nav-menu ul li:hover > a {
-  background: #9c00ff;
+  background: #f52b06;
   color: #fff;
 }
 
@@ -421,7 +421,7 @@ h6 {
 }
 
 #mobile-nav ul li a:hover {
-  color: #9c00ff;
+  color: #f52b06;
 }
 
 #mobile-nav ul li li {
@@ -438,11 +438,11 @@ h6 {
 }
 
 #mobile-nav ul .menu-has-children i.fa-chevron-up {
-  color: #9c00ff;
+  color: #f52b06;
 }
 
 #mobile-nav ul .menu-item-active {
-  color: #9c00ff;
+  color: #f52b06;
 }
 
 #mobile-body-overly {
@@ -525,7 +525,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #intro h1 span {
-  color: #9c00ff;
+  color: #f52b06;
 }
 
 #intro p {
@@ -537,7 +537,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #intro .play-btn {
   width: 94px;
   height: 94px;
-  background: radial-gradient(#9c00ff 50%, rgba(101, 111, 150, 0.15) 52%);
+  background: radial-gradient(#f52b06 50%, rgba(101, 111, 150, 0.15) 52%);
   border-radius: 50%;
   display: block;
   position: relative;
@@ -584,7 +584,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #intro .play-btn:hover::after {
-  border-left: 15px solid #9c00ff;
+  border-left: 15px solid #f52b06;
   -webkit-transform: scale(20);
   transform: scale(20);
 }
@@ -622,11 +622,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #fff;
   -webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
-  border: 2px solid #9c00ff;
+  border: 2px solid #f52b06;
 }
 
 #intro .about-btn:hover {
-  background: #9c00ff;
+  background: #f52b06;
   color: #fff;
 }
 
@@ -750,7 +750,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #speakers .speaker .details a:hover {
-  color: #9c00ff;
+  color: #f52b06;
 }
 
 #speakers .speaker:hover .details {
@@ -785,7 +785,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #speakers-details .details .social a:hover {
-  background: #9c00ff;
+  background: #f52b06;
   color: #fff;
 }
 
@@ -830,7 +830,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #schedule .nav-tabs a.active {
-  background-color: #9c00ff;
+  background-color: #f52b06;
   color: #fff;
 }
 
@@ -1003,7 +1003,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #hotels a:hover {
-  color: #9c00ff;
+  color: #f52b06;
 }
 
 #hotels .stars {
@@ -1053,7 +1053,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #gallery .owl-dot.active {
-  background-color: #9c00ff;
+  background-color: #f52b06;
 }
 
 #gallery .gallery-carousel .owl-stage-outer {
@@ -1061,7 +1061,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #gallery .gallery-carousel .center {
-  border: 6px solid #9c00ff;
+  border: 6px solid #f52b06;
   margin: -10px;
   box-sizing: content-box;
   padding: 4px;
@@ -1150,7 +1150,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #faq #faq-list a.collapse {
-  color: #9c00ff;
+  color: #f52b06;
 }
 
 #faq #faq-list a.collapsed {
@@ -1206,7 +1206,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   border: 0;
   padding: 9px 25px;
   cursor: pointer;
-  background: #9c00ff;
+  background: #f52b06;
   color: #fff;
   transition: all 0.3s ease;
   outline: none;
@@ -1215,7 +1215,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #subscribe button:hover {
-  background: #7422f8;
+  background: #ff5733;
 }
 
 /*--------------------------------------------------------------
@@ -1281,7 +1281,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   border-radius: 50px;
   padding: 10px 40px;
   transition: all 0.2s;
-  background-color: #9c00ff;
+  background-color: #f52b06;
   border: 0;
   color: #fff;
   margin-bottom:2px;
@@ -1289,7 +1289,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #buy-tickets .card .btn:hover {
-  background-color: #7422f8;
+  background-color: #ff5733;
 }
 
 #buy-tickets #buy-ticket-modal input,
@@ -1302,13 +1302,13 @@ body.mobile-nav-active #mobile-nav-toggle {
   border-radius: 50px;
   padding: 10px 40px;
   transition: all 0.2s;
-  background-color: #9c00ff;
+  background-color: #f52b06;
   border: 0;
   color: #fff;
 }
 
 #buy-tickets #buy-ticket-modal .btn:hover {
-  background-color: #7422f8;
+  background-color: #ff5733;
 }
 
 /*--------------------------------------------------------------
@@ -1328,7 +1328,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 48px;
   display: inline-block;
   margin-bottom: 10px;
-  color: #9c00ff;
+  color: #f52b06;
 }
 
 #contact .contact-info address,
@@ -1350,7 +1350,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .contact-info a:hover {
-  color: #9c00ff;
+  color: #f52b06;
 }
 
 #contact .contact-address,
@@ -1360,8 +1360,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .form #sendmessage {
-  color: #9c00ff;
-  border: 1px solid #9c00ff;
+  color: #f52b06;
+  border: 1px solid #f52b06;
   display: none;
   text-align: center;
   padding: 15px;
@@ -1402,7 +1402,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .form button[type="submit"] {
-  background: #9c00ff;
+  background: #f52b06;
   border: 0;
   padding: 10px 40px;
   color: #fff;
@@ -1412,7 +1412,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .form button[type="submit"]:hover {
-  background: #7422f8;
+  background: #ff5733;
 }
 
 /*--------------------------------------------------------------
@@ -1474,7 +1474,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #9c00ff;
+  background: #f52b06;
   color: #fff;
 }
 
@@ -1485,7 +1485,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   text-transform: uppercase;
   position: relative;
   padding-bottom: 12px;
-  border-bottom: 2px solid #9c00ff;
+  border-bottom: 2px solid #f52b06;
 }
 
 #footer .footer-top .footer-links {
@@ -1500,7 +1500,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #footer .footer-top .footer-links ul i {
   padding-right: 5px;
-  color: #9c00ff;
+  color: #f52b06;
   font-size: 18px;
 }
 
@@ -1518,7 +1518,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #footer .footer-top .footer-links ul a:hover {
-  color: #9c00ff;
+  color: #f52b06;
 }
 
 #footer .footer-top .footer-contact {
@@ -1540,7 +1540,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #footer .footer-top .footer-newsletter input[type="submit"] {
-  background: #9c00ff;
+  background: #f52b06;
   border: 0;
   width: 35%;
   padding: 6px 0;
@@ -1551,7 +1551,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #footer .footer-top .footer-newsletter input[type="submit"]:hover {
-  background: #7422f8;
+  background: #ff5733;
 }
 
 #footer .copyright {
@@ -1797,7 +1797,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   }
   #buy-tickets .card hr{
     margin-top: 0px !important;
-    background-color: #9c00ff;
+    background-color: #f52b06;
     height: 2px;
   }
   #buy-tickets .card .card-price {
