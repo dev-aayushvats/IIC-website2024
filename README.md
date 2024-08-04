@@ -1,2 +1,2 @@
-# IIC-website_2023-main
-Deployed [here](https://suyashgaurav.github.io/IIC-website_2023-main/)
+# IIC-website_2024
+Deployed the E-Summit branch currently at (https://dev-aayushvats.github.io/IIC-website2024/)...
